@@ -8,6 +8,7 @@ This project was developed as a chosen topical project for the **IMCS3010U: Inte
 
 ### **Description**
 It is no surprise that mathematical linguistics is considered a universal language that transcends global borders. However, one of the most fascinating aspects of this language is the existence of shared terms with other standardized languages that contain completely different definitions and interpretations depending on how it is used and the verbal and textual context surrounding its usage. This discovery raised an important question: “Is a computer able to computationally differentiate between a mathematical and non-mathematical piece of text containing shared terms, and if so, is there a variety of analytical steps and methodologies to showcase that this is a possibility?” This question resulted in the primary research topic for this project, which is the **Textual/Binary Classification of Math vs. Non-Math Textual Content**.
+
 <img width="561" height="587" alt="image" src="https://github.com/user-attachments/assets/ecfb905c-2cbd-4167-853f-c2d4a937bfde" />
 
 
@@ -56,10 +57,12 @@ realm of machine-learning and artificial intelligence (AI).
 
 
 ## **Project Testing Results**
+
 <img width="825" height="421" alt="image" src="https://github.com/user-attachments/assets/635d33ee-9109-4fad-a925-97a1eb9e4819" />
 
 
 ## **Author**
 
 - Tobenna Nnaobi
+
 
