@@ -1,0 +1,5 @@
+text
+"instance , numbers 2 , 4 , 6 , 8 , 10 , ... , form sequence . order important ; first number 2 , second 4 etc . seems natural seek formula describes given sequence , often done . instance , sequence could bedescribed function ( n ) = 2n , values n = 1,2,3,4 , .. , k . find 10^th term sequence , would compute ( 10 ) . leads us following , formal definition sequence ."
+"let { 𝐚_𝐧 } sequence let 𝐋 real number . given ε > 0 , 𝐦 found |𝐚_𝐧-𝐋| < ε 𝐧 > 𝐦 , say limit { 𝐚_𝐧 } , 𝐧 approaches infinity , 𝐋 , denoted lim_n→∞a_n = 𝐋 ."
+"definition states , informally , limit sequence 𝐋 , go far enough along sequence , subsequent terms really close 𝐋 ."
+"guys happened annual general meeting happened yesterday ? crazy ! apparently meeting , supposed scheduled plan supposed occur otsu would go detail legal information clubs would need stay informed . however , sequence events occured student society one faculties causing lot drama ."

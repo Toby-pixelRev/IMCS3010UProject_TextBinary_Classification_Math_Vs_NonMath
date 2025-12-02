@@ -1,0 +1,55 @@
+text,label
+"
+
+
+
+For instance, the numbers 2, 4, 6, 8, 10, ..., form a sequence. The order is important; the first number is 2, the second is 4 etc. 
+
+It seems natural to seek a formula that describes a given sequence, and often this can be done. For instance, the sequence above could 
+
+bedescribed by the function  
+    a(n) = 2n
+,  for the values of  
+    n = 1,2,3,4,..,k
+. 
+ 
+To find the  
+    10^th
+  term in the sequence, we would compute  
+    a(10)
+.  
+This leads us to the following, formal definition of a sequence. 
+
+
+
+
+",1
+"
+
+
+
+Let  {𝐚_𝐧}  be a sequence and let  𝐋  be a real number. Given any  
+ε> 0 ,  if an  𝐦  can be found such that  |𝐚_𝐧-𝐋| < ε  
+for all  𝐧 > 𝐦,
+ then we say the limit of  {𝐚_𝐧},  as  𝐧  
+approaches infinity, is  𝐋,  denoted 
+ 
+    lim_n→∞a_n = 𝐋
+.
+
+",1
+"
+
+
+
+This definition states, informally, that if the limit of a sequence is 
+ 𝐋,  then if you go far enough out along the sequence, 
+
+ all subsequent terms will be really close to  𝐋.
+
+",1
+"Did you guys here about happened during the Annual General Meeting that happened yesterday?
+It was crazy! Apparently during the meeting, there were supposed to scheduled plan that were supposed to occur where
+the OTSU would go into detail about any legal information that clubs would need to stay informed about. However, there 
+was a sequence of events that occured there was a student society from one of the faculties causing a lot of drama.
+",0

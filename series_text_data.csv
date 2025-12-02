@@ -1,0 +1,93 @@
+text,label
+"I am genuinely so happy you asked what my favourite TV shows and series are! For me, my favourites 
+would have to be shows like Sailor Moon, any series in the Pretty Cure franchise but especially Hirogaru Sky Pretty Cure,
+Mermaid Melody, Cardcaptor Sakura, Tokyo Mew Mew, Fruits Basket, etc. If you couldn't already tell, I am a massive fan of shoujo 
+anime and manga! Especially within the magical girl and romance department! Probably any TV and manga series within the shoujo sphere 
+I most definitely will enjoy the heck out of it!
+",0
+"
+
+
+
+The difference between a Taylor polynomial and a Taylor series is the former is a polynomial, containing only a finite number of terms, whereas 
+ 
+the latter is a series, a summation of an infinite set of terms. When creating the Taylor polynomial of degree n for a function  
+    f(x)
+  at  
+    x = c
+, 
+
+we needed to evaluate  
+    f
+, and the first  
+    n
+  derivatives of  
+    f
+,  at  
+    x = c
+. 
+ 
+When creating the Taylor series of  
+    f
+,  it helps to find a pattern that describes the  
+    n^th
+  derivative of  
+    f
+  at  
+    x = c
+. 
+
+Let  
+    f(x)
+  have derivatives of all of orders at  
+    x = c
+. 
+ 
+1. The Taylor Series of  
+    f(x)
+,  centered at  
+    c
+  is  
+    ∑^∞_n=1f^(n)(c)/n!(x-c)^n
+ 
+
+2. Setting  
+    c = 0
+  gives the Maclaurin Series of  
+    f(x)
+:  
+    ∑^∞_n=1f^(n)(0)/n!x^n
+ 
+
+
+
+
+",1
+"
+
+
+
+There is good news. A function   that is equal to its Taylor series, centered at any point the domain of  f(x), 
+ 
+is said to be an analytic function, and most, if not all, functions that we encounter within this course are analytic 
+ 
+functions. Generally speaking, any function that one creates with elementary functions (polynomials, exponentials, 
+ 
+trigonometric functions, etc.) that is not piecewise defined is probably analytic. 
+
+
+",1
+"
+
+
+
+There is good news. A function   that is equal to its Taylor series, centered at any point the domain of  f(x), 
+ 
+is said to be an analytic function, and most, if not all, functions that we encounter within this course are analytic 
+ 
+functions. Generally speaking, any function that one creates with elementary functions (polynomials, exponentials, 
+ 
+trigonometric functions, etc.) that is not piecewise defined is probably analytic. 
+
+
+",1
