@@ -16,7 +16,8 @@ computationally differentiate between a mathematical and non-mathematical piece 
 terms, and if so, is there a variety of analytical steps and methodologies to showcase that this is a
 possibility?” This question resulted in the primary research topic for this project, which is the
 Textual/Binary Classification of Math vs. Non-Math Textual Content.
-![alt text](../Screenshots/Final_Report_Screenshots/training_the_sequence_rnn_model.png)
+<img width="561" height="587" alt="image" src="https://github.com/user-attachments/assets/ecfb905c-2cbd-4167-853f-c2d4a937bfde" />
+
 
 ### **Project Contributor**
 - Tobenna Nnaobi
@@ -63,7 +64,9 @@ realm of machine-learning and artificial intelligence (AI).
 
 
 ## **Project Testing Results**
-![alt text](../Screenshots/Final_Report_Screenshots/testing_the_sequence_rnn_model.png)
+<img width="825" height="421" alt="image" src="https://github.com/user-attachments/assets/635d33ee-9109-4fad-a925-97a1eb9e4819" />
+
 
 ## **Author**
+
 - Tobenna Nnaobi
