@@ -18,7 +18,7 @@ It is no surprise that mathematical linguistics is considered a universal langua
 ## **Getting Started**
 
 ### **Requirements**
-- Any Version $\leq$ **Python 3.12.0** Is Required
+- Any Version $\leq$ **Python 3.12.10** Is Required
 - Any IDE With Jupyter Notebook Is Recommended (e.g. **Visual Studio Code**) 
 
 ### **Dependencies & Modules**
@@ -62,7 +62,7 @@ realm of machine-learning and artificial intelligence (AI).
 
 
 ## **Author**
-
 - Tobenna Nnaobi
+
 
 
