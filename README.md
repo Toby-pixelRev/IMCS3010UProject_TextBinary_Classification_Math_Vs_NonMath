@@ -13,7 +13,7 @@ It is no surprise that mathematical linguistics is considered a universal langua
 
 
 ### **Project Contributor**
-- Tobenna Nnaobi
+- **Tobenna Nnaobi**
 
 ## **Getting Started**
 
@@ -62,7 +62,8 @@ realm of machine-learning and artificial intelligence (AI).
 
 
 ## **Author**
-- Tobenna Nnaobi
+- **Tobenna Nnaobi**
+
 
 
 
