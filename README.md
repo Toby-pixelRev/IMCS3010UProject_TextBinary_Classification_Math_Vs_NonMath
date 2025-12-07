@@ -34,6 +34,9 @@ for classification, tokenization, stemming, tagging, parsing, and semantic reaso
 versa. It also provides functions for parsing LaTeX code and converting it into plain
 text via its latex2text dependency.
 
+- **Pandas**: A fast, powerful, and flexible Python dependency that used for primarily for data analysis and manipulation purposes.
+    - **pd.DataFrame**: A module capabale of creating a two-dimensional, size-mutable, potentially heterogeneous tabular dataset using a fixed set of data.
+
 - **Scikit-Learn**: A Python module that is utilized for machine learning purposes and contains
 tools for predictive data analysis. It is built on NumPy, SciPy, and matplotlib.
     - **sklearn.metrics.pairwise.cosine similarity**: A type of metric utilized to compute the cosine
@@ -63,6 +66,7 @@ realm of machine-learning and artificial intelligence (AI).
 
 ## **Author**
 - **Tobenna Nnaobi**
+
 
 
 
